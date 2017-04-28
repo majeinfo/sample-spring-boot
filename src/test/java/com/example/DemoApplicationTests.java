@@ -15,7 +15,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void testEnErreur() {
-		assert(0);
+		assert(0==1);
 	}
 
 }
