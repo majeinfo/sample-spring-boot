@@ -18,4 +18,9 @@ public class DemoApplicationTests {
 		assert(0==1);
 	}
 
+	@Ignore
+	public void testEnIgnore() {
+		assert(0==1);
+	}
+
 }
