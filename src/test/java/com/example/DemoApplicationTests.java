@@ -19,6 +19,7 @@ public class DemoApplicationTests {
 	}
 
 	@Ignore
+	@Test
 	public void testEnIgnore() {
 		assert(0==1);
 	}
